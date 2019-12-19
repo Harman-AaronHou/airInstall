@@ -24,7 +24,7 @@
 
 <key>url</key>
 
-<string>https://github.com/Harman-AaronHou/airInstall/raw/master/JBLAware.ipa</string>
+<string>https://github.com/Harman-AaronHou/airInstall/raw/master/AKGHeadphones.ipa</string>
 
 </dict>
 
@@ -60,7 +60,7 @@
 
 <key>bundle-identifier</key>
 
-<string>com.harmanenterprise.myjblheadphones</string>
+<string>com.harmanenterprise.akgn20lt</string>
 
 <key>bundle-version</key>
 
